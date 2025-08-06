@@ -1,1 +1,4 @@
-# Placeholder for feedback_prompt.txt
+Provide structured feedback for the following interview response:
+- Highlight strengths and weaknesses
+- Suggest specific improvements
+- Provide a final score out of 10
